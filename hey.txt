@@ -1,3 +1,7 @@
 this is the step into git
 chnges leades either bad or good 
+<<<<<<< HEAD
 we can do anything
+=======
+that's ok
+>>>>>>> feature
